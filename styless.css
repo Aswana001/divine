@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(248, 229, 245);
+    color:black;
+    text-align:center;
+    
+    
+}
+.one{
+    font-size:100px;
+
+}
+.pic{
+    width:800px;
+    height:400px;
+}
+table td{
+    padding-left:80px;
+    padding-top:40px;
+    
+
+}
+.two{
+    padding-top:90px;
+}
+.three{
+    padding-top:100px;
+}
+button{margin:30%;
+    width:30%;
+    height: 20%;
+    
+}
+h1{
+    font-size:50px;
+}
+.full{
+    font-size:40px; 
+}
